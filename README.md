@@ -8,7 +8,7 @@
   
 ##
   
-### Technologies I use in my day
+### Technologies I use in my day:
   
  <div style="display: inline_block"><br>
    <img align="center" alt="csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
