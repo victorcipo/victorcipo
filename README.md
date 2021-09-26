@@ -6,6 +6,8 @@
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcipo&layout=compact&langs_count=7&theme=dracula"/>-->
 </div>
   
+  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="victorcipo" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/victorcipo?trk=profile-badge">Víctor Torrezani Cipó</a></div>
+  
 ##
   
 ### Technologies I use in my day:
@@ -25,7 +27,7 @@
  ##
 
 <div>
-  <a href="https://www.linkedin.com/in/victor-torrezani-cipo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/victorcipo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send?phone=5516981145859&text=Olá!%20Vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar%20contigo!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/victor.cipo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:victor.cipo@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
