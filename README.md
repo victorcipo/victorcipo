@@ -6,8 +6,6 @@
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcipo&layout=compact&langs_count=7&theme=dracula"/>-->
 </div>
   
-  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="victorcipo" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/victorcipo?trk=profile-badge">Víctor Torrezani Cipó</a></div>
-  
 ##
   
 ### Technologies I use in my day:
